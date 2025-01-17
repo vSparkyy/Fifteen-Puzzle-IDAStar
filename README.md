@@ -1,14 +1,14 @@
 
 # Fifteen Puzzle with IDA* Solver
-A Pygame-based sliding puzzle to demonstrate the classic Fifteen Puzzle. Move the blank tile around using the arrow keys or let the built-in IDA* solver do the work. It even shows a fun "Solving..." animation in the meantime, so the game never freezes up!
+A Pygame-based sliding puzzle to demonstrate the classic Fifteen Puzzle. Move the blank tile around using the arrow keys or let the built-in IDA* solver do the work.
 
 ## Features
 
 - **Interactive Sliding Puzzle**: Move tiles manually with the arrow keys.
-- **Background IDA* Solver**: Press "S" to let the solver find the solution.  
+- **Background IDA\* Solver**: Press "S" to let the solver find the solution.  
 - **Animated Moves**: Watch each tile slide smoothly.
-- **Non-Freezing UI**: While the solver runs, a changing "Solving..." message displays so the game stays responsive.
 - **Easy Scramble**: Press "Space" to scramble the puzzle again and reset your moves.
+- **Manhattan Hueristic & Linear Conflicts Approach**: Provides an admissible hueristic to solve the fifteen puzzle optimally.
 
 ## Dependencies
 

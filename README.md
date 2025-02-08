@@ -27,7 +27,7 @@ A Pygame-based sliding puzzle to demonstrate the classic Fifteen Puzzle. Move th
 
 2. **OR clone the repository to your local machine**:
    ```bash
-   git clone https://github.com/your-username/Fifteen-Puzzle-IDAsolver.git
+   git clone https://github.com/vSparkyy/Fifteen-Puzzle-IDAsolver.git
    ```
    - Install the required dependencies:
      ```bash
